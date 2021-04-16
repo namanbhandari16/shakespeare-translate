@@ -1,0 +1,1 @@
+This app traslates modern english to shaskpear english.
